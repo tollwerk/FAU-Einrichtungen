@@ -1,9 +1,4 @@
 <?php
-/**
-* @package WordPress
-* @subpackage FAU
-* @since FAU 1.10
-*/
 
 /* 
  * Settings for Gutenberg Editor
